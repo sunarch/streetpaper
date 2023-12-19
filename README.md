@@ -1,6 +1,6 @@
-# Python package template
+# Streetpaper
 
-Replace 'projectname' with the actual name of the project in all places
+Street newspaper management
 
 ## License
 
